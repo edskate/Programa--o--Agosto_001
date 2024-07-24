@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    text-shadow: -1px 1px 1px aquamarine;
+    margin: 30px;
+}
+h2{
+    color: red;
+    text-shadow: 1px 2px 3px gree;
+
+}
+table{
+    margin: 50px;
+    box-shadow: 1px 1px 1px white;
+}
